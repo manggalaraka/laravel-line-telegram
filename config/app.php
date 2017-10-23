@@ -105,7 +105,7 @@ return [
     */
 
     // 'key' => env('APP_KEY'),
-    'key' => 'manggalarakaperkasa',
+    'key' => '2Q91lZn2WWKXU+RUOomD+h0SUaXmIRDBaRYON9aNhJw=',
 
     'cipher' => 'AES-256-CBC',
 
